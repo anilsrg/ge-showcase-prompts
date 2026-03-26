@@ -40,17 +40,14 @@ What is Future Gamer’s address?
 I have a meeting in their Atlanta office. How is the weather there?
 ```
 
-### Prompt 8: Event Inquiry
+### Prompt 8: Event Inquiry ( Enable Calendar Actions )
 
 ```
-Are there any AI events coming up in 2025?
+Are there any AI events coming up in 2026?
 ```
 
-### Prompt 8: Schedule Calendar
+### Prompt 9: Schedule calendar event 
 
 ```
-Add the PyTorch Conference 2025 event to my calendar
+Add the AI World Congress event to my calendar
 ```
-
-
-
