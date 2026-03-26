@@ -41,4 +41,16 @@ I have a meeting in their Atlanta office. How is the weather there?
 ```
 
 ### Prompt 8: Event Inquiry
-Are there any Neuravibe events coming up in 2025?
+
+```
+Are there any AI events coming up in 2025?
+```
+
+### Prompt 8: Schedule Calendar
+
+```
+Add the PyTorch Conference 2025 event to my calendar
+```
+
+
+
