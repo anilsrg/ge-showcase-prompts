@@ -51,3 +51,14 @@ Are there any AI events coming up in 2026?
 ```
 Add the AI World Congress event to my calendar
 ```
+
+
+## Research Agent
+
+### Promot 10
+
+```
+Create a report analyzing Apple Inc., its products, USP, competition, ambition from its earnings reports and comment if they are a good fit for Neuravibes offerings
+```
+
+
