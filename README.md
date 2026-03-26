@@ -61,4 +61,46 @@ Add the AI World Congress event to my calendar
 Create a report analyzing Apple Inc., its products, USP, competition, ambition from its earnings reports and comment if they are a good fit for Neuravibes offerings
 ```
 
+## Search Company Colleagues
+
+### Activity 1 : AutoComplete Access Details
+
+```
+@Sergio V
+```
+
+### Promot 11
+
+```
+get me details about  @sergio V
+```
+
+## Create an Agent
+
+### Activity : Click on Create Agent  
+### Activity : Click on Proceed to Builder
+### Activity : Click on Agent
+### Activity : Name Agent
+
+```
+Thanks Generator
+```
+
+```
+Generate a thank you note
+```
+
+```
+1. Ask the user for who they want to thank, what tone they want (personal, professional) and what they are grateful for. Check the user has shared all the reasons before moving on.
+
+2. Generate three thank you notes taking care to review your responses to make sure they reflect the information gathered in the first step.
+
+3. Ask the user to choose an option.
+
+4. Prepare an email using the email tool for the user to send to their connection.
+```
+
+
+
+
 
