@@ -1,4 +1,6 @@
-### Prompt 1: Account Overview
+### Prompt 1: Client Account Overview
+
+## Scenario : An internal auditor at Neuravibe has been assigned to conduct a preliminary risk assessment for a new, high-value client account, "Future Gamers." To understand the potential financial, operational, and compliance risks associated with this business relationship, the auditor first needs to gather high-level business context. 
 
 ```
 Tell me about Future Gamers account, Recent Activities, Financials, Meetings
