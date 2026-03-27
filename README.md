@@ -1,6 +1,8 @@
-### Prompt 1: Client Account Overview
-
 ## Scenario : An internal auditor at Neuravibe has been assigned to conduct a preliminary risk assessment for a new, high-value client account, "Future Gamers." To understand the potential financial, operational, and compliance risks associated with this business relationship, the auditor first needs to gather high-level business context. 
+
+## ผู้ตรวจสอบภายในของ Neuravibe ได้รับมอบหมายให้ทำการประเมินความเสี่ยงเบื้องต้นสำหรับบัญชีลูกค้าใหม่ที่มีมูลค่าสูงชื่อ "Future Gamers" เพื่อทำความเข้าใจความเสี่ยงทางการเงิน การดำเนินงาน และการปฏิบัติตามกฎระเบียบที่อาจเกิดขึ้นจากความสัมพันธ์ทางธุรกิจนี้ ผู้ตรวจสอบจำเป็นต้องรวบรวมข้อมูลบริบททางธุรกิจในระดับสูงก่อน
+
+### Prompt 1: Client Account Overview
 
 ```
 Tell me about Future Gamers account, Recent Activities, Financials, Meetings
