@@ -116,7 +116,7 @@ Add the "14th Annual Meeting of the GRC" to my calendar.
 
 ## Research Agent
 
-### Promopt 10
+### Prompt 10
 
 ```
 Create a report analyzing our third-party vendor "Google Inc." using their latest SOC 2 report and annual financial statements. Analyze their control environment, any noted exceptions or deficiencies, data privacy policies, and financial health. Conclude with an opinion on whether their risk profile is acceptable according to our vendor management policy.
@@ -131,11 +131,18 @@ Create a report analyzing our third-party vendor "Google Inc." using their lates
 @Sergio V
 ```
 
-### Promot 11
+### Prompt 11
 
 ```
 get me details about  @sergio V
 ```
+
+
+
+## Scenario : An auditor faces the daily manual task of checking for new audit policy updates before starting their work. They create a Gemini Enterprise agent scheduled to run automatically every morning, well before the workday begins. This agent proactively identifies any policy changes and analyzes yesterday's transactions for non-compliance against the new rules. A complete summary report is now waiting in the auditor's email drafts, turning a reactive chore into proactive insight.
+
+
+## Scenario ผู้ตรวจสอบต้องเผชิญกับงานที่ต้องทำด้วยตนเองทุกวันในการตรวจสอบการอัปเดตนโยบายการตรวจสอบใหม่ๆ ก่อนเริ่มงาน พวกเขาสร้าง Agent ของ Gemini Enterprise ให้ทำงานอัตโนมัติทุกเช้า ก่อนเวลาทำงานปกติ Agent นี้จะค้นหาการเปลี่ยนแปลงนโยบายและวิเคราะห์ธุรกรรมของเมื่อวานเพื่อหาการไม่ปฏิบัติตามกฎใหม่ ตอนนี้ รายงานสรุปฉบับสมบูรณ์ก็พร้อมรออยู่ในฉบับร่างอีเมลของผู้ตรวจสอบ เปลี่ยนงานที่ต้องรอทำซ้ำๆ ให้กลายเป็นข้อมูลเชิงลึกเชิงรุก
 
 ## Create an Agent
 
@@ -145,25 +152,45 @@ get me details about  @sergio V
 ### Activity : Name Agent
 
 ```
-Thanks Generator
+Neuravibe Audit Policy Daily Changes Checker
 ```
 
 ### Activity : Add Description
 
 ```
-Generate a thank you note
+Agent to help interact with enterprise data.
 ```
 
 ### Activity : Add Instructions
 
 ```
-1. Ask the user for who they want to thank, what tone they want (personal, professional) and what they are grateful for. Check the user has shared all the reasons before moving on.
+-- Scan @AuditPolcies folder in Google Drive
 
-2. Generate three thank you notes taking care to review your responses to make sure they reflect the information gathered in the first step with emojis.
+-- Identify today's policies
 
-3. Ask the user to choose an option.
+-- Summarize Policy
 
-4. Prepare an email using the email tool for the user to send to their connection.
+-- Highlight most important points
+
+-- Use emojis to make the summary pleasant to read
+
+-- Handover to immediate attention sub agent
+```
+
+### Activity : Create Sub Agent
+
+```
+Immediate Attention
+```
+
+```
+Immediate Action - If summary contains keyword immediate action create a calendar event
+```
+
+```
+-- Show Summary
+
+-- Check Summary , If summary talks about immediate attention - Create calendar event in my calendar today at 10 AM
 ```
 
 ### Prompt
