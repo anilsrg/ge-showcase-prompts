@@ -70,7 +70,7 @@ Send the email
 ### Prompt 6: Fieldwork Location Details
 
 ```
-What is the address of Future Gamer's main distribution center?
+@Addresses : What is the address of Future Gamer's main distribution center?
 ```
 
 ## Scenario 7: The auditor has confirmed the on-site fieldwork will take place at the Chiang Mai office. To prepare for their business travel, they need to check the local conditions to pack appropriately.
