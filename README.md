@@ -80,7 +80,7 @@ Send the email
 ### Prompt 7: Contextual Planning for On-Site Audit
 
 ```
-I have to conduct audit fieldwork at their ChaingMai office. How is the weather there in Chign?
+I have to conduct audit fieldwork at their ChiangMai office. How is the weather there in Chign?
 ```
 
 
