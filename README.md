@@ -80,7 +80,7 @@ Send the email
 ### Prompt 7: Contextual Planning for On-Site Audit
 
 ```
-I have to conduct audit fieldwork at their ChiangMai office. How is the weather there in Chign?
+I have to conduct audit fieldwork at their ChiangMai office. How is the weather there in ChiangMai?
 ```
 
 
@@ -94,14 +94,14 @@ I have to conduct audit fieldwork at their ChiangMai office. How is the weather 
 Are there any major Internal Audit or GRC (Governance, Risk, and Compliance) conferences coming up in 2026?
 ```
 
-## Scenario 9: After finding a relevant event, the "IIA International Conference," the auditor decides to attend. They use Gemini Enterprise to quickly block the time on their work calendar.
+## Scenario 9: After finding a relevant event, the "14th Annual Meeting of the GRC" the auditor decides to attend. They use Gemini Enterprise to quickly block the time on their work calendar.
 
-## สถานการณ์ที่ 9: หลังจากพบกิจกรรมที่เกี่ยวข้องคือ "IIA International Conference" ผู้ตรวจสอบตัดสินใจเข้าร่วม พวกเขาใช้ Gemini Enterprise เพื่อจองเวลาในปฏิทินการทำงานของพวกเขาอย่างรวดเร็ว
+## สถานการณ์ที่ 9: หลังจากพบกิจกรรมที่เกี่ยวข้องคือ "14th Annual Meeting of the GRC " ผู้ตรวจสอบตัดสินใจเข้าร่วม พวกเขาใช้ Gemini Enterprise เพื่อจองเวลาในปฏิทินการทำงานของพวกเขาอย่างรวดเร็ว
 
 ### Prompt 9: Schedule Professional Development
 
 ```
-Add the "IIA International Conference" to my calendar.
+Add the "14th Annual Meeting of the GRC" to my calendar.
 ```
 
 
